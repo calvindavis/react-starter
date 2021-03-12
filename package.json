@@ -1,0 +1,30 @@
+{
+	"name": "react-starter",
+	"version": "1.0.0",
+	"description": "Like a sourdough starter, but for a small React app.",
+	"main": "index.js",
+	"scripts": {
+		"start": "snowpack dev",
+		"build": "snowpack build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/calvindavis/react-starter.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/calvindavis/react-starter/issues"
+	},
+	"homepage": "https://github.com/calvindavis/react-starter#readme",
+	"dependencies": {
+		"@types/react": "^17.0.3",
+		"@types/react-dom": "^17.0.2",
+		"prettier": "^2.2.1",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1",
+		"snowpack": "^3.0.13"
+	}
+}
