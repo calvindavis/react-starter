@@ -1,3 +1,3 @@
 module.exports = {
-  purge: ["./src/**/*.html", "./src/**/*.tsx"],
+  content: ["./src/**/*.html", "./src/**/*.tsx"],
 };
